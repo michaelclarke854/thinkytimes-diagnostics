@@ -1,0 +1,2 @@
+mkdir -p pages/api
+touch pages/api/send-gpt-test-callback.ts
